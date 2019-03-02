@@ -7,7 +7,7 @@ _Disclaimer : Although it's a personal listing, some projects were developed wit
 
 ## Table of contents
 
-* [Junior Enterprise SEPEFREI](#Junior-Enterprise-SEPEFREI)
+* [Junior-Enterprise SEPEFREI](#Junior-Enterprise-SEPEFREI)
 * [PulseHeberg](#pulseheberg)
 * [WEI EFREI](#wei-efrei)
 * [Other freelance and personal projects](#other-freelance-and-personal-projects)
@@ -19,13 +19,13 @@ _Disclaimer : Although it's a personal listing, some projects were developed wit
     * [Universal Multigaming](#universal-multigaming)
     * [Strictly Community / Strictly Roleplay](#strictly-community--strictly-roleplay)
 
-## Junior Enterprise SEPEFREI
+## Junior-Enterprise SEPEFREI
 
 ![SEPEFREI Horus](img/sepefrei.png)
 
 `2017-2019` - `Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`, `Docker`
 
-I joined the Efrei Paris' Junior Enterprise in 2017 as a developer. I've worked on multiple projects for external customers.
+I joined the Efrei Paris' Junior-Enterprise in 2017 as a developer. I've worked on multiple projects for external customers.
 During these projects, I've learnt how to build cross-platform mobile applications using frameworks like React-Native and Cordova.
 
 ## PulseHeberg
