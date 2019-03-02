@@ -7,8 +7,8 @@ _Disclaimer : Although it's a personal listing, some projects were developed wit
 
 ## Table of contents
 
-* [PulseHeberg](#pulseheberg)
 * [Junior Enterprise SEPEFREI](#Junior-Enterprise-SEPEFREI)
+* [PulseHeberg](#pulseheberg)
 
 ## Junior Enterprise SEPEFREI
 
