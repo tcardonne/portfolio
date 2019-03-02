@@ -8,9 +8,9 @@ This is a repository where I list old projects I worked on.
 
 ## PulseHeberg
 
-`Symfony 3`, `AngularJS`, `System administration`, `Networking`
+![PulseHeberg](img/pulseheberg.jpg)
 
-![PulseHeberg](img/pulsepanel.jpg)
+`Symfony 3`, `AngularJS`, `System administration`, `Networking`
 
 I helped to create a centralized management interface for the hosting provider [pulseheberg.com](https://pulseheberg.com).
 This interface enables customers to manage their services (web hosting, emails, VPN) in a central place.
