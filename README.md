@@ -10,6 +10,14 @@ _Disclaimer : Although it's a personal listing, some projects were developed wit
 * [Junior Enterprise SEPEFREI](#Junior-Enterprise-SEPEFREI)
 * [PulseHeberg](#pulseheberg)
 * [WEI EFREI](#wei-efrei)
+* [Other freelance and personal projects](#other-freelance-and-personal-projects)
+    * [4th-ibct.com / 82nd-airborne.com](#4th-ibctcom--82nd-airbornecom)
+    * [guilde-invicted.fr](##guilde-invictedfr)
+    * [SA-RP.fr](#sa-rpfr)
+    * [NG Volley Ball](#ng-volley-ball)
+    * [LS Police Department](#ls-police-department)
+    * [Universal Multigaming](#universal-multigaming)
+    * [Strictly Community / Strictly Roleplay](#strictly-community--strictly-roleplay)
 
 ## Junior Enterprise SEPEFREI
 
