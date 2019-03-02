@@ -1,6 +1,9 @@
 # My Portfolio
 
 This is a repository where I list old projects I worked on.
+I found convenient to use a repository for this purpose as I wanted to keep my [personal landing page](https://tcardonne.fr) as light as possible.
+
+__Disclaimer : Although it's a personal listing, some projects were developed with other persons (developers, designers...).__
 
 ## Table of contents
 
