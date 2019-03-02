@@ -5,13 +5,11 @@ This is a repository where I list old projects I worked on.
 ## Table of contents
 
 * [PulseHeberg](#pulseheberg)
-* [Junior Enterprise SEPEFREI](#Junior Enterprise SEPEFREI)
+* [Junior Enterprise SEPEFREI](#Junior-Enterprise-SEPEFREI)
 
 ## Junior Enterprise SEPEFREI
 
-![SEPEFREI Horus](img/zachee.png)
-![SEPEFREI Horus](img/horus_1.png)
-![SEPEFREI Horus](img/horus_2.png)
+![SEPEFREI Horus](img/sepefrei.png)
 
 `Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`
 
