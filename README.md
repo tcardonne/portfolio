@@ -9,9 +9,9 @@ This is a repository where I list old projects I worked on.
 
 ## Junior Enterprise SEPEFREI
 
-![SEPEFREI Horus](img/zachee.jpg)
-![SEPEFREI Horus](img/horus_1.jpg)
-![SEPEFREI Horus](img/horus_2.jpg)
+![SEPEFREI Horus](img/zachee.png)
+![SEPEFREI Horus](img/horus_1.png)
+![SEPEFREI Horus](img/horus_2.png)
 
 `Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`
 
