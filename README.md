@@ -18,7 +18,7 @@ During these projects, I've learnt how to build cross-platform mobile applicatio
 
 ## PulseHeberg
 
-![PulseHeberg](img/pulseheberg.jpg)
+![PulseHeberg](img/pulseheberg_b.png)
 
 `Symfony 3`, `AngularJS`, `System administration`, `Networking`
 
