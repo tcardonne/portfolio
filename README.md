@@ -14,7 +14,7 @@ _Disclaimer : Although it's a personal listing, some projects were developed wit
 
 ![SEPEFREI Horus](img/sepefrei.png)
 
-`Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`
+`Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`, `Docker`
 
 I joined the Efrei Paris' Junior Enterprise in 2017 as a developer. I've worked on multiple projects for external customers.
 During these projects, I've learnt how to build cross-platform mobile applications using frameworks like React-Native and Cordova.
