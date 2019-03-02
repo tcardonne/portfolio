@@ -5,6 +5,18 @@ This is a repository where I list old projects I worked on.
 ## Table of contents
 
 * [PulseHeberg](#pulseheberg)
+* [Junior Enterprise SEPEFREI](#Junior Enterprise SEPEFREI)
+
+## Junior Enterprise SEPEFREI
+
+![SEPEFREI Horus](img/zachee.jpg)
+![SEPEFREI Horus](img/horus_1.jpg)
+![SEPEFREI Horus](img/horus_2.jpg)
+
+`Symfony 4`, `React Native`, `AngularJS`, `Cordova`, `WordPress`
+
+I joined the Efrei Paris' Junior Enterprise in 2017 as a developer. I've worked on multiple projects for external customers.
+During these projects, I've learnt how to build cross-platform mobile applications using frameworks like React-Native and Cordova.
 
 ## PulseHeberg
 
